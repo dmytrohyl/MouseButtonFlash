@@ -8,4 +8,4 @@ Just clone the repository and build with Visual Studio 2022.
 
 ## Binary
 
-You can download the latest build here:
+You can download the latest build [here](https://github.com/roger2k13324/MouseButtonFlash/releases/latest)
